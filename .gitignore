@@ -1,14 +1,6 @@
 __pycache__
 .vscode
-*.pyc
-*.pyo
-*.exe
-*.dll
-*.so
-*.a
-*.o
-*.obj
-*.lib
+
 
 venv
 
